@@ -12,7 +12,7 @@ This is a backend application that provides CRUD (Create, Read, Update, Delete) 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/assistant-management-api.git
+git clone https://github.com/AdityaGaurr/Assistant-Management-API.git
 ```
 
 2. Navigate to the project directory:
